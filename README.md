@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Sasha! 👋 
+
+ex. Beeline and Yandex content editor, Senior Analyst in future
+
+DA tolls:
+Python, Pandas, Numpy, Matplotlib, SciPy, Seaborn, Plotly
 
 <!--
 **AgathaRemedy/AgathaRemedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
